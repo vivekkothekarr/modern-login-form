@@ -1,19 +1,26 @@
-# Modern Login Form
+# Netflix Login Form
 
-This is a simple modern login form created using HTML and CSS.
+This project is a simulated Netflix login page built with HTML, CSS, and JavaScript.
 
-## 🚀 How to Run
-1. Download the code or clone the repo
-2. Open `index.html` in your browser
+## Features
 
-## 📸 Screenshots
-(Add screenshots here if required)
+- Modern UI design
+- Basic form validation using JavaScript
+- Password show/hide toggle
 
-## 🧑‍💻 GitHub Workflow Simulated
-- Forked and cloned repo
-- Created feature branches
-- Committed changes
+## How to run
+
+Open `index.html` in any modern web browser.
+
+---
+
+## Git & GitHub workflow simulated
+
+- Created repository
+- Uploaded files
+- Edited and committed changes
 - Pushed to GitHub
-- Created pull requests
 
-## 🕒 Date: 04-09-2025
+---
+
+### Date: 04-09-2025
